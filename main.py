@@ -4,7 +4,8 @@ from random import randint
 traducao = {
   '1': 'Pedra', 
   '2': 'Papel', 
-  '3': 'Tesoura'}
+  '3': 'Tesoura'
+}
 
 tabelaVitoria = {
   'Pedra': 'Tesoura', 
